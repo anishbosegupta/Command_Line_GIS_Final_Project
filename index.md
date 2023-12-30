@@ -1,8 +1,11 @@
-### New Jersey Battery Electric/Plug-in Hybrid Registrations by County
+## New Jersey Battery Electric/Plug-in Hybrid Registrations by County
 <iframe src='Battery_Electric_Plugin_Hybrid_registrations_in_NJ_by_County.png' width = '855' height = '905' ></iframe>
 
-### Battery Electric/Plug-in Hybrid Light Duty Truck Registrations and Charging Stations in New Jersey
+## New Jersey Population by Blockgroup
+<iframe src='New Jersey Population by Blockgroup.png' width = '855' height = '905' ></iframe>
+
+## Battery Electric/Plug-in Hybrid Light Duty Truck Registrations and Charging Stations in New Jersey
 <iframe src='charging_stations_with_electric_light_duty_truck_registrations.html' width = '855' height = '905' ></iframe>
 
-### Battery Electric/Plug-in Hybrid Car Registrations and Charging Stations in New Jersey
+## Battery Electric/Plug-in Hybrid Car Registrations and Charging Stations in New Jersey
 <iframe src='charging_stations_with_electric_passenger_car_registrations.html' width = '855' height = '905' ></iframe>
