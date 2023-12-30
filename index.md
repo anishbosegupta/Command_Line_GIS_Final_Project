@@ -1,5 +1,5 @@
 ## New Jersey Battery Electric/Plug-in Hybrid Registrations by County
-<iframe src='Battery_Electric_Plugin_Hybrid_registrations_in_NJ_by_County.png' width = '600' height = '800' ></iframe>
+<iframe src='Battery_Electric_Plugin_Hybrid_registrations_in_NJ_by_County.png' width = '750' height = '800' ></iframe>
 
 ## New Jersey Population by Blockgroup
 <iframe src='New Jersey Population by Blockgroup.png' width = '600' height = '800' ></iframe>
