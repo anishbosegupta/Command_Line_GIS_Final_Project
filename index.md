@@ -5,7 +5,7 @@
 <iframe src='New Jersey Population by Blockgroup.png' width = '600' height = '800' ></iframe>
 
 ## Battery Electric/Plug-in Hybrid Light Duty Truck Registrations and Charging Stations in New Jersey
-<iframe src='charging_stations_with_electric_light_duty_truck_registrations.html' width = '650' height = '750' ></iframe>
+<iframe src='charging_stations_with_electric_light_duty_truck_registrations.html' width = '650' height = '800' ></iframe>
 
 ## Battery Electric/Plug-in Hybrid Car Registrations and Charging Stations in New Jersey
-<iframe src='charging_stations_with_electric_passenger_car_registrations.html' width = '6500' height = '750' ></iframe>
+<iframe src='charging_stations_with_electric_passenger_car_registrations.html' width = '650' height = '800' ></iframe>
